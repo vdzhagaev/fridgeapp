@@ -32,5 +32,8 @@ Full documentation will be available in the [Wiki](https://github.com/vdzhagaev/
 ## 🛣️ Roadmap
 See the detailed [Roadmap](docs/ROADMAP.md) for planned milestones.
 
+## 🏗️ Architecture
+For a high-level overview of the codebase structure and design decisions, read [ARCHITECTURE.md](docs/ARCHITECTURE.md).
+
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
